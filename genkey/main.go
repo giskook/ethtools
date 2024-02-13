@@ -13,10 +13,10 @@ import (
 )
 
 func main() {
-	//	for i := 0; i < 500; i++ {
-	//		gen()
-	//	}
-	getPrivateKey()
+	for i := 0; i < 1; i++ {
+		gen()
+	}
+	// getPrivateKey()
 	// getMethodID()
 }
 
